@@ -1,0 +1,54 @@
+ ? | ? | ? 
+-----------
+ ? | ? | ? 
+-----------
+ ? | ? | ? 
+Player X enter your square choice [0-24], -1 (AI), or -2 (Random):
+ X | ? | ? 
+-----------
+ ? | ? | ? 
+-----------
+ ? | ? | ? 
+Player O enter your square choice [0-24], -1 (AI), or -2 (Random):
+ X | O | ? 
+-----------
+ ? | ? | ? 
+-----------
+ ? | ? | ? 
+Player X enter your square choice [0-24], -1 (AI), or -2 (Random):
+ X | O | X 
+-----------
+ ? | ? | ? 
+-----------
+ ? | ? | ? 
+Player O enter your square choice [0-24], -1 (AI), or -2 (Random):
+ X | O | X 
+-----------
+ ? | O | ? 
+-----------
+ ? | ? | ? 
+Player X enter your square choice [0-24], -1 (AI), or -2 (Random):
+ X | O | X 
+-----------
+ X | O | ? 
+-----------
+ ? | ? | ? 
+Player O enter your square choice [0-24], -1 (AI), or -2 (Random):
+ X | O | X 
+-----------
+ X | O | O 
+-----------
+ ? | ? | ? 
+Player X enter your square choice [0-24], -1 (AI), or -2 (Random):
+ X | O | X 
+-----------
+ X | O | O 
+-----------
+ ? | X | ? 
+Player O enter your square choice [0-24], -1 (AI), or -2 (Random):
+ X | O | X 
+-----------
+ X | O | O 
+-----------
+ O | X | ? 
+Draw...game over!
